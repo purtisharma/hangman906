@@ -6,6 +6,7 @@
    - Usage-instructions,
    - file-structure,
    - License Information
+3. [Learnings](#Learnings) 
 
 ## Description
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain number of attempts. This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it.
@@ -25,3 +26,6 @@ hangman906/
 
 ## License Information
 This project is licensed under the MIT License - see the License file for details. )
+
+## Leanrnings
+In Object-Oriented Programming (OOP), I learned that the use of classes and methods demonstrates key principles of OOP, such as encapsulation, initialization, and method calls. I also learned that user interaction and handling user input, as well as providing feedback, are crucial aspects of programming.
