@@ -17,7 +17,7 @@ To get a copy of the project up and running on your local machine, follow these 
 git clone https://github.com/purtisharma/hangman906.git
 
 ## Usage Instructions
-python milestone_2.py
+python milestone_5.py
 
 ## File Structure
 hangman906/
